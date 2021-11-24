@@ -5,7 +5,6 @@
 
 B.Sc., Civil Engineering, Islamic University of Technology, Bangladesh
 
----
 M.Sc., Coastal and Marine Systems Science,Coastal Carolina Univeristy
 
 
