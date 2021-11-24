@@ -21,9 +21,6 @@ Sports Reporter, Bangladesh National Cricket Board.
 
 <img src="images/wind.png?raw=true"/>
 
----
-### Work Experience
-
 
 ---
 ### Recent Conference
