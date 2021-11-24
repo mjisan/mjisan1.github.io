@@ -3,6 +3,16 @@
 ---
 ### Education
 
+B.Sc., Civil Engineering, Islamic University of Technology, Bangladesh.
+M.Sc., Coastal and Marine Systems Science,Coastal Carolina Univeristy
+
+
+### Work Experience
+
+Research Assistant, Institute of Water and Flood Management, Bangladesh.
+
+### Research Projects
+
 [Hurricane Surface Wind Modeling](/sample_page)
 <img src="images/wind.png?raw=true"/>
 
