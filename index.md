@@ -3,8 +3,8 @@
 ---
 ### Education
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hurricane Surface Wind Modeling](/sample_page)
+<img src="images/wind.png?raw=true"/>
 
 ---
 ### Work Experience
