@@ -26,10 +26,10 @@ Sports Reporter, Bangladesh National Cricket Board.
 
 
 ---
-### Recent Projects
+### Recent Conference
 
 
-- [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
+- [AMS Hurricane Conference](https://ams.confex.com/ams/34HURR/meetingapp.cgi/Paper/373889)
 
 ---
 
